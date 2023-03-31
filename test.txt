@@ -1,2 +1,6 @@
 qwqwq
+<<<<<<< HEAD
 hello
+=======
+mylocal_hello
+>>>>>>> mylocal
